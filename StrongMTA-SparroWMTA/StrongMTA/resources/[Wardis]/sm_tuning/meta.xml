@@ -1,0 +1,232 @@
+<meta>
+	<download_priority_group>-3</download_priority_group>
+
+	<script src="particle/sourceC.lua" type="client" cache="false" />
+    
+    <file src="assets/smokes/1.dds" />
+    <file src="assets/smokes/2.dds" />
+    <file src="assets/smokes/3.dds" />
+    
+    <file src="assets/empty.dds" />
+
+    <file src="assets/reflection_cubemap.dds" />
+    <file src="assets/wheels.fx" />
+	<file src="assets/mta-helper.fx" />
+
+
+
+	<script type="shared" src="sourceG.lua" cache = "false" />
+	<script type="server" src="sourceS.lua"/>
+	<script type="client" src="sourceC.lua" cache = "false" />
+
+	<script type="shared" src="handling/sourceG.lua" cache = "false" />
+	<script type="server" src="handling/sourceS.lua" />
+
+	<script type="client" src="color/sourceC.lua" cache = "false" />
+	<script type="client" src="neon/sourceC.lua" cache = "false" />
+	<script type="client" src="door/sourceC.lua" cache = "false" />
+	<script type="client" src="airride/sourceC.lua" cache = "false" />
+	<script type="client" src="drivetype/sourceC.lua" cache = "false" />
+
+	<script type="client" src="component/sourceC.lua" cache = "false" />
+	<script type="client" src="performance/sourceC.lua" cache = "false" /> 
+
+	<script type="client" src="wheel/sourceC.lua" cache = "false" />
+
+	<export type="shared" function="applyHandling" />
+	<export type="server" function="makeTuning" />
+	<export type="shared" function="getHandlingTable" />
+	<export type="shared" function="getHandlingProperty" />
+	<export type="client" function="isHaveSupercharger" />
+
+	<min_mta_version client="1.5.9" server="1.5.9" />
+
+	<file src="files/fonts/Roboto.ttf" />
+
+	<file src="files/reflection_cubemap.dds"/>
+    <file src="files/shaders/mta-helper.fx"/>
+    <file src="files/shaders/wheel.fx"/>  
+
+	<file src="files/bg.png" />
+	<file src="files/block.txd" />
+	<file src="files/block.dff" />
+	<file src="files/colorpicker.png" />
+	<file src="files/light.png" />
+	<file src="files/luminance.png" />
+	<file src="files/luminance2.png" />
+	
+	<file src="files/marks/nissan.png" />
+	<file src="files/marks/bmw.png" />
+	<file src="files/marks/audi.png" />
+	<file src="files/marks/chevrolet.png" />
+	<file src="files/marks/dodge.png" />
+	<file src="files/marks/ford.png" />
+	<file src="files/marks/honda.png" />
+	<file src="files/marks/lamborghini.png" />
+	<file src="files/marks/mazda.png" />
+	<file src="files/marks/mercedes.png" />
+	<file src="files/marks/mitsubishi.png" />
+	<file src="files/marks/porsche.png" />
+	<file src="files/marks/subaru.png" />
+	<file src="files/marks/toyota.png" />
+	<file src="files/marks/volkswagen.png" />
+	<file src="files/marks/tesla.png" />
+
+
+	<file src="files/nav/enter.png" />
+	<file src="files/nav/backspace.png" />
+	<file src="files/nav/up.png" />
+	<file src="files/nav/down.png" />
+	<file src="files/nav/mouse.png" />
+
+	<file src="files/sounds/menunavigate.mp3" />
+	<file src="files/sounds/menuselect.mp3" />
+	<file src="files/sounds/menuback.mp3" />
+	<file src="files/sounds/cammove.mp3" />
+	<file src="files/sounds/newpart.mp3" />
+	<file src="files/sounds/paint.mp3" />
+	<file src="files/sounds/prompt.mp3" />
+	<file src="files/sounds/promptaccept.mp3" />
+	<file src="files/sounds/promptdecline.mp3" />
+
+	<file src="files/drivetype/panel.png" />
+	<file src="files/drivetype/led1.png" />
+	<file src="files/drivetype/led2.png" />
+
+	<file src="files/airride/panel.png" />
+	<file src="files/airride/arrow.png" />
+	<file src="files/airride/led.png" />
+	<file src="files/airride/ledgreen.png" />
+	<file src="files/airride/ledorange.png" />
+	<file src="files/airride/ledred.png" />
+	<file src="files/airride/beep1.mp3" />
+	<file src="files/airride/beep2.mp3" />
+	<file src="files/airride/airride.mp3" />
+
+	<file src="files/neon/neon.col" />
+	<file src="files/neon/red.dff" />
+	<file src="files/neon/blue.dff" />
+	<file src="files/neon/green.dff" />
+	<file src="files/neon/yellow.dff" />
+	<file src="files/neon/pink.dff" />
+	<file src="files/neon/white.dff" />
+
+	<file src="files/icons/diff.png" />
+	<file src="files/icons/dollar.png" />
+	<file src="files/icons/extra.png" />
+	<file src="files/icons/felszerelt.png" />
+	<file src="files/icons/fenyezes.png" />
+	<file src="files/icons/free.png" />
+	<file src="files/icons/gps.png" />
+	<file src="files/icons/horn.png" />
+	<file src="files/icons/misc.png" />
+	<file src="files/icons/optika.png" />
+	<file src="files/icons/pp.png" />
+	<file src="files/icons/sch.png" />
+	<file src="files/icons/slock.png" />
+	<file src="files/icons/speedo.png" />
+	<file src="files/icons/spinner.png" />
+	<file src="files/icons/teljesitmeny.png" />
+	<file src="files/icons/variant.png" />
+
+	<file src="files/icons/performance/ecu.png" />
+	<file src="files/icons/performance/fek.png" />
+	<file src="files/icons/performance/felfugg.png" />
+	<file src="files/icons/performance/gumi.png" />
+	<file src="files/icons/performance/motor.png" />
+	<file src="files/icons/performance/nitro.png" />
+	<file src="files/icons/performance/sulycsokkentes.png" />
+	<file src="files/icons/performance/turbo.png" />
+	<file src="files/icons/performance/valto.png" />
+
+	<file src="files/icons/optical/airride.png" />
+	<file src="files/icons/optical/elso.png" />
+	<file src="files/icons/optical/felni.png" />
+	<file src="files/icons/optical/gumiszelesseg.png" />
+	<file src="files/icons/optical/hatso.png" />
+	<file src="files/icons/optical/hatsolampa.png" />
+	<file src="files/icons/optical/hidra.png" />
+	<file src="files/icons/optical/izzo.png" />
+	<file src="files/icons/optical/kipufogo.png" />
+	<file src="files/icons/optical/kmh.png" />
+	<file src="files/icons/optical/kuszob.png" />
+	<file src="files/icons/optical/legterelo.png" />
+	<file src="files/icons/optical/lsd.png" />
+	<file src="files/icons/optical/meghajtas.png" />
+	<file src="files/icons/optical/motorhaz.png" />
+	<file src="files/icons/optical/neon.png" />
+	<file src="files/icons/optical/offroad.png" />
+	<file src="files/icons/optical/plate.png" />
+	<file src="files/icons/optical/speedtrap.png" />
+	<file src="files/icons/optical/tetolegterelo.png" />
+
+
+	<script src="mods/sourceG.lua" type="shared" cache="false" />
+    <script src="mods/sourceC.lua" type="client" cache="false" />
+    
+    <file src="mods/neons/1.dff" />
+    <file src="mods/neons/2.dff" />
+    <file src="mods/neons/3.dff" />
+    <file src="mods/neons/4.dff" />
+    <file src="mods/neons/5.dff" />
+    <file src="mods/neons/6.dff" />
+    <file src="mods/neons/7.dff" />
+    <file src="mods/neons/8.dff" />
+    <file src="mods/neons/9.dff" />
+    <file src="mods/neons/10.dff" />
+    
+    <file src="mods/wheels/wheels1.txd" />
+    <file src="mods/wheels/wheels2.txd" />
+    <file src="mods/wheels/wheels3.txd" />
+    <file src="mods/wheels/fm3_wheels.txd" />
+    <file src="mods/wheels/1.dff" />
+    <file src="mods/wheels/2.dff" />
+    <file src="mods/wheels/3.dff" />
+    <file src="mods/wheels/4.dff" />
+    <file src="mods/wheels/5.dff" />
+    <file src="mods/wheels/6.dff" />
+    <file src="mods/wheels/7.dff" />
+    <file src="mods/wheels/8.dff" />
+    <file src="mods/wheels/9.dff" />
+    <file src="mods/wheels/10.dff" />
+    <file src="mods/wheels/11.dff" />
+    <file src="mods/wheels/12.dff" />
+    <file src="mods/wheels/13.dff" />
+    <file src="mods/wheels/14.dff" />
+    <file src="mods/wheels/15.dff" />
+    <file src="mods/wheels/16.dff" />
+    <file src="mods/wheels/17.dff" />
+    <file src="mods/wheels/18.dff" />
+    <file src="mods/wheels/19.dff" />
+    <file src="mods/wheels/20.dff" />
+    <file src="mods/wheels/21.dff" />
+    <file src="mods/wheels/22.dff" />
+    <file src="mods/wheels/23.dff" />
+    <file src="mods/wheels/24.dff" />
+    <file src="mods/wheels/25.dff" />
+    <file src="mods/wheels/26.dff" />
+    <file src="mods/wheels/27.dff" />
+    
+    <file src="mods/wheels/28.dff" />
+    <file src="mods/wheels/29.dff" />
+    <file src="mods/wheels/30.dff" />
+    <file src="mods/wheels/31.dff" />
+    <file src="mods/wheels/32.dff" />
+    <file src="mods/wheels/33.dff" />
+    <file src="mods/wheels/34.dff" />
+    <file src="mods/wheels/35.dff" />
+    <file src="mods/wheels/36.dff" />
+    <file src="mods/wheels/37.dff" />
+    <file src="mods/wheels/38.dff" />
+    <file src="mods/wheels/39.dff" />
+    <file src="mods/wheels/40.dff" />
+    <file src="mods/wheels/41.dff" />
+    <file src="mods/wheels/42.dff" />
+    <file src="mods/wheels/43.dff" />
+    <file src="mods/wheels/43.dff" />
+    <file src="mods/wheels/44.dff" />
+    <file src="mods/wheels/45.dff" />
+    <file src="mods/wheels/46.dff" />
+
+	<oop>true</oop>
+</meta>

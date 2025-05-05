@@ -1,0 +1,159 @@
+<meta>
+	<download_priority_group>-4</download_priority_group>
+
+	<script type="client" src="sourceC.lua" cache="false"/>
+	<script type="shared" src="sourceG.lua" cache="false"/>
+
+	
+	<script type="server" src="sourceS.lua" />
+
+	<script type="client" src="wheels/sourceC.lua" cache="false"/>
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+	<export function="getTuningVariantVehicles" type="client"/>
+
+	<export function="getCustomVehicleName" type="shared"/>
+	<export function="getCustomVehicleNameFromVehicle" type="shared"/>
+	<export function="getCustomVehicleManufacturer" type="shared"/>
+
+	<file src="files/Roboto.ttf" />
+
+	<file src="files/wheels.txd" />
+	<file src="files/1.dff" />
+	<file src="files/2.dff" />
+	<file src="files/3.dff" />
+	<file src="files/4.dff" />
+	<file src="files/5.dff" />
+	<file src="files/6.dff" />
+	<file src="files/7.dff" />
+	<file src="files/8.dff" />
+	<file src="files/9.dff" />
+	<file src="files/10.dff" />
+	<file src="files/11.dff" />
+	<file src="files/12.dff" />
+	<file src="files/13.dff" />
+	<file src="files/14.dff" />
+	<file src="files/15.dff" />
+	<file src="files/16.dff" />
+
+	<file src="mods/buffalo.strong" />
+	<file src="mods/buffalo.txd" />
+
+	<file src="mods/sentinel.strong" />
+	<file src="mods/sentinel.txd" />
+
+	<file src="mods/cabbie.strong" />
+	<file src="mods/cabbie.txd" />
+
+	<file src="mods/premier.strong" />
+	<file src="mods/premier.txd" />
+
+	<file src="mods/dune.strong" />
+	<file src="mods/dune.txd" />
+
+	<file src="mods/primo.strong" />
+	<file src="mods/primo.txd" />
+
+	<file src="mods/alpha.strong" />
+	<file src="mods/alpha.txd" />
+
+	<file src="mods/tahoma.strong" />
+	<file src="mods/tahoma.txd" />
+
+	<file src="mods/reefer.strong" />
+	<file src="mods/reefer.txd" />
+
+	<file src="mods/tropic.strong" />
+	<file src="mods/tropic.txd" />
+
+	<file src="mods/euros.strong" />
+	<file src="mods/euros.txd" />
+
+	<file src="mods/tornado.strong" />
+	<file src="mods/tornado.txd" />
+
+	<file src="mods/admiral.strong" />
+	<file src="mods/admiral.txd" />
+
+	<file src="mods/stallion.strong" />
+	<file src="mods/stallion.txd" />
+
+	<file src="mods/hotr2.strong" />
+	<file src="mods/hotr2.txd" />
+
+	<file src="mods/bravura.strong" />
+	<file src="mods/bravura.txd" />
+
+	<file src="mods/huntley.strong" />
+	<file src="mods/huntley.txd" />
+
+	<file src="mods/infernus.strong" />
+	<file src="mods/infernus.txd" />
+
+	<file src="mods/fcr-900.strong" />
+	<file src="mods/fcr-900.txd" />
+
+	<file src="mods/bus.strong" />
+	<file src="mods/bus.txd" />
+
+	<file src="mods/boxville.strong" />
+	<file src="mods/boxville.txd" />
+
+
+	<file src="mods/vincent.strong" />
+	<file src="mods/vincent.txd" />
+	
+	<file src="mods/regina.strong" />
+	<file src="mods/regina.txd" />
+
+	<file src="mods/fortune.strong" />
+	<file src="mods/fortune.txd" />
+
+	<file src="mods/hotr3.strong" />
+	<file src="mods/hotr3.txd" />
+
+	<file src="mods/sabre.strong" />
+	<file src="mods/sabre.txd" />
+
+	<file src="mods/broadway.strong" />
+	<file src="mods/broadway.txd" />
+
+	<file src="mods/emperor.strong" />
+	<file src="mods/emperor.txd" />
+
+	<file src="mods/bullet.strong" />
+	<file src="mods/bullet.txd" />
+
+
+	<file src="mods/bobcat.strong" />
+	<file src="mods/bobcat.txd" />
+
+	<file src="mods/elegant.strong" />
+	<file src="mods/elegant.txd" />
+
+	<file src="mods/cadrona.strong" />
+	<file src="mods/cadrona.txd" />
+
+	<file src="mods/phoenix.strong" />
+	<file src="mods/phoenix.txd" />
+
+	<file src="mods/virgo.strong" />
+	<file src="mods/virgo.txd" />
+
+	<file src="mods/trash.strong" />
+	<file src="mods/trash.txd" />
+
+	<file src="mods/packer.strong" />
+	<file src="mods/packer.txd" />
+
+	<file src="mods/copcarla.strong" />
+	<file src="mods/copcarla.txd" />
+
+	<file src="mods/utiltr1.strong" />
+	<file src="mods/utiltr1.txd" />
+	
+
+
+
+</meta>

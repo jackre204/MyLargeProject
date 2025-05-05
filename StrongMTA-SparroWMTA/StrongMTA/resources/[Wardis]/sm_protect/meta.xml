@@ -1,0 +1,8 @@
+<meta>
+    <script src="sourceC.lua" type="client" cache="false"/>
+
+    <script src="sourceS.lua" type="server" cache="false"/>
+
+    <export type="client" function="loadLockedFiles" />
+
+</meta>

@@ -1,0 +1,78 @@
+﻿<meta>
+	<info author="Steve Scott" type = "script" description = "Farming System"/>
+	<!--<info decompiler="Wardis" type = "luacos rendszer egy vagyonért" description = "Egy bugos szar rendszer"/> -->
+	<script src="sourceG.lua" type="shared" />
+	<script src="sourceC.lua" type="client" cache = "false" />
+	<script src="sourceS.lua" type="server" />
+
+	<file src="files/fonts/montSerrat.otf" />
+	<file src="files/fonts/montSerratBold.ttf" />
+
+	<file src="files/fonts/impact.ttf" />
+	<file src="files/fonts/Roboto.ttf" />
+	
+	<file src="files/models/int_kicsi.dff" />
+	<file src="files/models/inti_kicsi.txd" />
+	<file src="files/models/int_kicsi.col" />
+
+	<file src="files/models/watercan.txd" />
+	<file src="files/models/watercan.dff" />
+	<file src="files/models/watercan.col" />
+	<file src="files/models/hoe.dff" />
+	<file src="files/models/carrot.txd" />
+	<file src="files/models/carrot.dff" />
+	<file src="files/models/parsley.txd" />
+	<file src="files/models/parsley.dff" />
+	<file src="files/models/lettuce.txd" />
+	<file src="files/models/lettuce.dff" />
+	<file src="files/models/onion.txd" />
+	<file src="files/models/onion.dff" />
+	<file src="files/models/radish.txd" />
+	<file src="files/models/radish.dff" />
+	<file src="files/models/shovel.col" />
+	<file src="files/models/shovel.dff" />
+
+	<file src="files/models/hoe.col" />
+	<file src="files/models/board.dff" />
+	<file src="files/models/exterior_1.dff" />
+	<file src="files/models/exterior_1.col" />
+
+	<file src="files/land_hole.png" />
+	<file src="files/land_hole_wet.png" />
+	<file src="files/wet.png" />
+	<file src="files/selection.png" />
+	<file src="files/road.png" />
+	<file src="files/land.png" />
+	<file src="files/land_wet.png" />
+	<file src="files/land_cultivated.png" />
+	<file src="files/land_cultivated_wet.png" />
+	<file src="files/land_planted.png" />
+	<file src="files/land_planted_wet.png" />
+	<file src="files/farmicon.png" />
+	<file src="files/farmrenticon.png" />
+	<file src="files/board.png" />
+	<file src="files/water.png" />
+	<file src="files/triangle.png" />
+
+	<file src="files/close.png" />
+	<file src="files/tick.png" />
+	<file src="files/minus.png" />
+	<file src="files/plus.png" />
+
+	<file src="files/sounds/cultivate.mp3" />
+	<file src="files/sounds/digging.mp3" />
+	<file src="files/sounds/harvest.mp3" />
+	<file src="files/sounds/planting.mp3" />
+	<file src="files/sounds/taketool.mp3" />
+	<file src="files/sounds/watering.mp3" />
+
+	<file src="files/seeds/seed.png" />
+
+	<file src="files/texturechanger.fx" />
+
+	<!-- Use this export in your account system if the player's dimension is already set to load the farm of the player -->
+	<export function="loadClientFarmForPlayer" type="client" />
+
+	<oop>true</oop>
+	<min_mta_version client="1.5.0" server="1.5.0" />
+</meta>

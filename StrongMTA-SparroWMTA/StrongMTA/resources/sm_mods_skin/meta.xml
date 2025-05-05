@@ -1,0 +1,19 @@
+<meta>
+	<script type="client" src="sourceC.lua" cache = "false" validate="false" />
+	
+
+
+	<file src="dogs/256.dff" />
+	<file src="dogs/256.txd" />
+	<file src="dogs/257.dff" />
+	<file src="dogs/257.txd" />
+	<file src="dogs/296.dff" />
+	<file src="dogs/296.txd" />
+	<file src="dogs/297.dff" />
+	<file src="dogs/297.txd" />
+	<file src="dogs/298.dff" />
+	<file src="dogs/298.txd" />
+	<file src="dogs/9.dff" />
+	<file src="dogs/9.txd" />
+	
+</meta>

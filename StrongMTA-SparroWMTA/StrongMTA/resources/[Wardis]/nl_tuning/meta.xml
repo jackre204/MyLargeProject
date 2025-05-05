@@ -1,0 +1,119 @@
+<meta>
+    <min_mta_version client="1.5.7" server="1.5.7" />
+    
+    <script src="functionsG.lua" type="shared" cache="false" />
+    <script src="functionsC.lua" type="client" cache="false" />
+    
+    <file src="fonts/bebasnue.ttf" />
+    <file src="fonts/roboto.ttf" />
+    <file src="fonts/roboto_bold.ttf" />
+    <file src="fonts/fontawesome.otf" />
+    
+    <script src="sourceG.lua" type="shared" cache="false" />
+    <script src="sourceS.lua" type="server" />
+    <script src="sourceC.lua" type="client" cache="false" />
+    
+    <script src="nitro/sourceC.lua" type="client" cache="false" />
+    
+    <script src="sliders/sourceC.lua" type="client" cache="false" />
+    
+    <script src="wheels/sourceG.lua" type="shared" cache="false" />
+    <script src="wheels/sourceC.lua" type="client" cache="false" />
+    
+    <script src="neon/sourceG.lua" type="shared" cache="false" />
+    <script src="neon/sourceC.lua" type="client" cache="false" />
+    
+    <script src="tiresmoke/sourceC.lua" type="client" cache="false" />
+    
+    <script src="airride/sourceS.lua" type="server" />
+    <script src="airride/sourceC.lua" type="client" cache="false" />
+    
+    <script src="vinyls/sourceC.lua" type="client" cache="false" />
+    
+    <export function="isTuningActive" type="client" />
+    <export function="getPerformanceTuneDatas" type="shared" />
+    <export function="getPerformanceTunesForDashboard" type="shared" />
+    
+    <file src="shaders/mta-helper.fx" />
+    <file src="shaders/wheels.fx" />
+    
+    <file src="textures/hover.dds" />
+    <file src="textures/shadow.dds" />
+    
+    <file src="textures/hue.dds" />
+    <file src="textures/saturation.dds" />
+    <file src="textures/brightness.dds" />
+    <file src="textures/transparency.dds" />
+    
+    <file src="textures/reflection_cubemap.dds" />
+    <file src="textures/logo/los_santos.png" />
+    <file src="textures/logo/san_fierro.png" />
+    
+    <file src="textures/icons/engine.dds" />
+    <file src="textures/icons/optics.dds" />
+    <file src="textures/icons/extras.dds" />
+    <file src="textures/icons/paint.dds" />
+    
+    <file src="textures/icons/air_intake.dds" />
+    <file src="textures/icons/fuel_system.dds" />
+    <file src="textures/icons/ignite.dds" />
+    <file src="textures/icons/camshaft.dds" />
+    <file src="textures/icons/valve.dds" />
+    <file src="textures/icons/pistons.dds" />
+    <file src="textures/icons/intercooler.dds" />
+    <file src="textures/icons/oil_cooler.dds" />
+    <file src="textures/icons/flywheel.dds" />
+    <file src="textures/icons/clutch.dds" />
+    <file src="textures/icons/diff.dds" />
+    <file src="textures/icons/turbo.dds" />
+    <file src="textures/icons/ecu.dds" />
+    <file src="textures/icons/gear.dds" />
+    <file src="textures/icons/exhaust.dds" />
+    <file src="textures/icons/brakes.dds" />
+    <file src="textures/icons/tires.dds" />
+    <file src="textures/icons/weightreducation.dds" />
+    <file src="textures/icons/nitro.dds" />
+    <file src="textures/icons/suspension.dds" />
+    <file src="textures/icons/stickers.dds" />
+    <file src="textures/icons/lamp.dds" />
+    <file src="textures/icons/rim.dds" />
+    <file src="textures/icons/front_bumper.dds" />
+    <file src="textures/icons/rear_bumper.dds" />
+    <file src="textures/icons/hood.dds" />
+    <file src="textures/icons/roof.dds" />
+    <file src="textures/icons/spoiler.dds" />
+    <file src="textures/icons/sideskirt.dds" />
+    <file src="textures/icons/steering.dds" />
+    <file src="textures/icons/airride.dds" />
+    <file src="textures/icons/lsd_door.dds" />
+    <file src="textures/icons/drivetype.dds" />
+    <file src="textures/icons/plate.dds" />
+    <file src="textures/icons/neon.dds" />
+    <file src="textures/icons/variant.dds" />
+    <file src="textures/icons/tiresmoke.dds" />
+    <file src="textures/icons/sticker_new.dds" />
+    <file src="textures/icons/sticker_edit.dds" />
+    <file src="textures/icons/sticker_delete.dds" />
+    <file src="textures/stickers/circle.dds" />
+    <file src="textures/stickers/circle_hover.dds" />
+    <file src="textures/stickers/shapes.dds" />
+    <file src="textures/stickers/body.dds" />
+    <file src="textures/stickers/characters.dds" />
+    <file src="textures/stickers/texts.dds" />
+    <file src="textures/stickers/misc.dds" />
+    <file src="textures/stickers/hover.dds" />
+    
+    <file src="sounds/prompt.ogg" />
+    <file src="sounds/promptaccept.ogg" />
+    <file src="sounds/promptdecline.ogg" />
+    <file src="sounds/upgrade.ogg" />
+    <file src="sounds/paint.ogg" />
+    <file src="sounds/airride.ogg" />
+    
+    <file src="sounds/enter.ogg" />
+    <file src="sounds/cammove.ogg" />
+    <file src="sounds/hover.ogg" />
+    
+    <file src="sounds/backfire.ogg" />
+    <file src="sounds/turbo_blowoff.wav" />
+</meta>

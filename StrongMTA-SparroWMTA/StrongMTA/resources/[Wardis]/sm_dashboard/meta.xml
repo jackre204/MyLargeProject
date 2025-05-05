@@ -1,0 +1,89 @@
+<meta>
+	<download_priority_group>-3</download_priority_group>
+	
+	<script type="server" src="sourceS.lua" />
+	<script type="client" src="sourceC.lua" cache="false"/>
+	<script type="shared" src="sourceG.lua" cache="false"/>
+
+	<script type="server" src="company/sourceS.lua" />
+	<script type="shared" src="company/sourceG.lua" cache="false"/>
+	<script type="client" src="company/sourceC.lua" cache="false"/>
+	
+	<min_mta_version server="1.5.7" client="1.5.7" />
+	
+	<file src="files/fonts/Roboto.ttf" />
+	<file src="files/fonts/RobotoL.ttf" />
+	<file src="files/fonts/RobotoB.ttf" />
+	<file src="files/fonts/lunabar.ttf" />
+	
+	
+	<file src="files/sounds/open.mp3" />
+	<file src="files/sounds/close.mp3" />
+	<file src="files/sounds/menuswitch.mp3" />
+	<file src="files/sounds/menuswitch2.mp3" />
+	<file src="files/sounds/switchoption.mp3" />
+	<file src="files/sounds/notification.mp3" />
+	<file src="files/sounds/sign.mp3" />
+	<file src="files/sounds/prompt.mp3" />
+	<file src="files/sounds/promptaccept.mp3" />
+	<file src="files/sounds/promptdecline.mp3" />
+	
+	<file src="files/images/logo.png" />
+
+	<file src="files/images/load.png" />
+
+	<file src="files/images/tabs/0.png" />
+	<file src="files/images/tabs/1.png" />
+	<file src="files/images/tabs/2.png" />
+	<file src="files/images/tabs/3.png" />
+	<file src="files/images/tabs/4.png" />
+	<file src="files/images/tabs/5.png" />
+	<file src="files/images/tabs/6.png" />
+	<file src="files/images/tabs/7.png" />
+	
+	<file src="files/images/dogs/1.png" />
+	<file src="files/images/dogs/2.png" />
+	<file src="files/images/dogs/3.png" />
+	<file src="files/images/dogs/4.png" />
+	<file src="files/images/dogs/5.png" />
+	<file src="files/images/dogs/6.png" />
+	<file src="files/images/dogs/7.png" />
+	
+	<file src="files/images/vehicletypes/Automobile.png" />
+	<file src="files/images/vehicletypes/Bike.png" />
+	<file src="files/images/vehicletypes/BMX.png" />
+	<file src="files/images/vehicletypes/Boat.png" />
+	<file src="files/images/vehicletypes/Helicopter.png" />
+	<file src="files/images/vehicletypes/Plane.png" />
+	<file src="files/images/vehicletypes/Quad.png" />
+
+	<file src="files/images/effect.png" />
+
+
+	<file src="company/images/vehicles/435.png" />
+    <file src="company/images/vehicles/543.png" />
+    <file src="company/images/vehicles/478.png" />
+    <file src="company/images/vehicles/413.png" />
+    <file src="company/images/vehicles/440.png" />
+    <file src="company/images/vehicles/499.png" />
+    <file src="company/images/vehicles/498.png" />
+    <file src="company/images/vehicles/455.png" />
+    <file src="company/images/vehicles/514.png" />
+    <file src="company/images/vehicles/515.png" />
+    <file src="company/images/vehicles/403.png" />
+    <file src="company/images/vehicles/584.png" />
+    <file src="company/images/vehicles/450.png" />
+    <file src="company/images/vehicles/591.png" />
+
+	<file src="company/images/fuvarlevel.png" />
+
+	<file src="company/images/fade.dds" />
+    <file src="company/images/logo/1.dds" />
+    <file src="company/images/logo/2.dds" />
+
+
+	<export function = "showProductLetter" type = "client" />
+	<export function = "completeJob" type = "server" />
+	
+
+</meta>

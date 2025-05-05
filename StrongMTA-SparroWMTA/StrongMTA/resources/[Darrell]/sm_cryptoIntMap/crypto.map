@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (hospital01_lvs) (1)" breakable="true" interior="18" collisions="true" alpha="255" model="8079" doublesided="false" scale="1" dimension="-1" posX="-29.2998" posY="-81.90039" posZ="964.70001" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (chinaTgarageDoor) (1)" breakable="true" interior="18" collisions="true" alpha="255" model="2957" doublesided="false" scale="1" dimension="-1" posX="-32.2" posY="-76.5" posZ="966.20001" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (skyscrapn202) (2)" breakable="true" interior="18" alpha="255" model="4690" doublesided="false" scale="1" dimension="-1" posX="-18.5" posY="-88.6" posZ="817" rotX="0" rotY="0" rotZ="0"></object>
+</map> 

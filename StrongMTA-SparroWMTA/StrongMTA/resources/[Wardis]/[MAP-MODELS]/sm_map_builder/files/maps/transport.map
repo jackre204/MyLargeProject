@@ -1,0 +1,18 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (las2warhus_las2) (1)" radius="54.663742" interior="0" model="3755" lodModel="3756" posX="2484.2344" posY="-2118.5547" posZ="17.70313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (refchimny01) (1)" radius="20.259142" interior="0" model="3256" lodModel="3290" posX="2452.9609" posY="-2129.0156" posZ="25.27344" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (refinerybox1) (1)" radius="18.395138" interior="0" model="3257" lodModel="3288" posX="2432.7266" posY="-2133.0234" posZ="12.45313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (refthinchim1) (1)" radius="17.784275" interior="0" model="3258" lodModel="3289" posX="2484.4141" posY="-2141.0078" posZ="12.1875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (pylon_big1_) (1)" radius="23.485365" interior="0" model="3244" lodModel="0" posX="2535.0938" posY="-2131.875" posZ="12.99219" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (imrancomp1_las2) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="5131" scale="1" doublesided="false" collisions="true" posX="2495" posY="-2118.5" posZ="18.6" rotX="0" rotY="0" rotZ="90"></object>
+    <removeWorldObject id="removeWorldObject (sw_trailerjump) (1)" radius="35.643341" interior="0" model="12956" lodModel="0" posX="96.32813" posY="-261.19531" posZ="3.85938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (CE_bigshed1) (1)" radius="74.508644" interior="0" model="12805" lodModel="13191" posX="65.25781" posY="-303.98437" posZ="14.45313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sw_cont05) (1)" radius="28.987371" interior="0" model="12861" lodModel="13195" posX="36.82813" posY="-256.22656" posZ="0.46875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_CRATE_3) (1)" radius="3.2883489" interior="0" model="1450" lodModel="0" posX="43.48438" posY="-252.57031" posZ="1.20313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_CRATE_2) (1)" radius="3.307642" interior="0" model="1449" lodModel="0" posX="43.10938" posY="-254.96094" posZ="1.21875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_BOX_PILE_2) (3)" radius="3.8295994" interior="0" model="1438" lodModel="0" posX="33.60156" posY="-279.35156" posZ="1.11719" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_BOX_PILE_3) (1)" radius="3.6364884" interior="0" model="1440" lodModel="0" posX="32.40625" posY="-289.21875" posZ="1.64844" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_BOX_PILE) (1)" radius="3.4145989" interior="0" model="1431" lodModel="0" posX="36.42969" posY="-291.0625" posZ="1.57031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_BOX_PILE_2) (1)" radius="3.8295994" interior="0" model="1438" lodModel="0" posX="29.23438" posY="-286.05469" posZ="1.21875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (imrancomp1_las2) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="5131" scale="1" doublesided="false" collisions="true" posX="67.6" posY="-297" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+</map>

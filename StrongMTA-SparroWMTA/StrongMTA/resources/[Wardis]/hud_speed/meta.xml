@@ -1,0 +1,53 @@
+<meta>
+    <oop>true</oop>
+    <info author="Undibble" name="WayHeySpeedometr" version="1.0.0" />
+    <script src="client/speed.lua" type="client" cache="false" />
+    <script src="client/client.lua" type="client" cache="false" />
+    <script src="server/server.lua" type="server" cache="false" />
+    
+    <file src="assets/fonts/font1.ttf" type="client" cache="false" />
+    <file src="assets/fonts/font2.ttf" type="client" cache="false" />
+    
+    <file src="assets/shaders/tex_matrix.fx" type="client" cache="false" />
+    <file src="assets/shaders/hud_mask.fx" type="client" cache="false" />
+    <file src="assets/img/speed_main.png" type="client" cache="false" />
+    <file src="assets/img/hud_3.png" type="client" cache="false" />
+	<file src="assets/img/povor_both.png" type="client" cache="false" />
+	<file src="assets/img/povor_left.png" type="client" cache="false" />
+	<file src="assets/img/povor_right.png" type="client" cache="false" />
+	<file src="assets/img/povor_no.png" type="client" cache="false" />
+    <file src="assets/img/speed_mask.png" type="client" cache="false" />
+    <file src="assets/img/speed_text.png" type="client" cache="false" />
+    <file src="assets/img/speed1_1.png" type="client" cache="false" />
+    <file src="assets/img/speed1_2.png" type="client" cache="false" />
+    <file src="assets/img/speed1_3.png" type="client" cache="false" />
+    <file src="assets/img/speed1_4.png" type="client" cache="false" />
+    <file src="assets/img/speed1_5.png" type="client" cache="false" />
+    <file src="assets/img/speed2_1.png" type="client" cache="false" />
+    <file src="assets/img/speed2_2.png" type="client" cache="false" />
+    <file src="assets/img/speed2_3.png" type="client" cache="false" />
+    <file src="assets/img/speed2_4.png" type="client" cache="false" />
+    <file src="assets/img/speed2_5.png" type="client" cache="false" />
+    <file src="assets/img/strelka.png" type="client" cache="false" />
+    <file src="assets/img/speed2_mask.png" type="client" cache="false" />
+    
+    <file src="assets/img/fuel/fuel_1.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_2.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_3.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_4.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_5.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_6.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_main.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_mask.png" type="client" cache="false" />
+    <file src="assets/img/fuel/fuel_text.png" type="client" cache="false" />
+
+    <file src="assets/img/other/lights_2.png" type="client" cache="false" />
+    <file src="assets/img/other/lights_0.png" type="client" cache="false" />
+
+    <file src="assets/img/other/engine.png" type="client" cache="false" />
+    <file src="assets/img/other/engine_0.png" type="client" cache="false" />
+
+    <file src="assets/img/other/oil.png" type="client" cache="false" />
+    <file src="assets/img/other/oil_0.png" type="client" cache="false" />
+        
+</meta>

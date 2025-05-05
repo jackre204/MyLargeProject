@@ -1,0 +1,5 @@
+<metaConfig>
+
+	<script type = "client" src = "sourceC.lua" cache = "false" />
+
+</metaConfig>

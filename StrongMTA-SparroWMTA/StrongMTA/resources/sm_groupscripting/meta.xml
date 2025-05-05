@@ -1,0 +1,100 @@
+<meta>
+	<download_priority_group>-15</download_priority_group>
+
+	<script type="server" src="sourceS.lua" />
+	<script type="client" src="sourceC.lua" cache="false"/>
+
+	<script type="server" src="rbs/sourceS.lua" />
+	<script type="client" src="rbs/sourceC.lua" cache="false"/>
+	<export type="client" function="openRBSPanel" />
+	<export type="client" function="getRBSVehicles" />
+
+	<script type="server" src="spike/sourceS.lua" />
+	<script type="client" src="spike/sourceC.lua" cache="false"/>
+
+	<script type="server" src="radio/sourceS.lua" />
+	<script type="client" src="radio/sourceC.lua" cache="false"/>
+
+	<script type="client" src="cctv/sourceC.lua" cache="false"/>
+	<export type="client" function="mdcAlertFromServer" />
+
+	<script type="server" src="cuff/sourceS.lua" />
+	<script type="client" src="cuff/sourceC.lua" cache="false"/>
+	<export type="server" function="uncuffAndReleasePlayer" />
+
+	<script type="server" src="tazer/sourceS.lua" />
+	<script type="client" src="tazer/sourceC.lua" cache="false"/>
+
+	<script type="client" src="trafimeter/sourceC.lua" cache="false"/>
+
+	<script type="client" src="taxi/sourceC.lua" cache="false"/>
+	<script type="shared" src="taxi/sourceG.lua" cache="false"/>
+	<script type="server" src="taxi/sourceS.lua" />
+
+	<script type="client" src="ticket/sourceC.lua" cache="false"/>
+
+	<script type="client" src="wheelclamp/sourceC.lua" cache="false"/>
+	<script type="server" src="wheelclamp/sourceS.lua" />
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+	<file src="tazer/files/tazer.txd" />
+	<file src="tazer/files/tazer.dff" />
+	<file src="tazer/files/shock.mp3" />
+	<file src="tazer/files/noise.mp3" />
+
+	<file src="cuff/files/standing.ifp" />
+	<file src="cuff/files/standing2.ifp" />
+	<file src="cuff/files/walking.ifp" />
+	<file src="cuff/files/cuff.txd" />
+	<file src="cuff/files/cuff.dff" />
+	<file src="cuff/files/cuff.mp3" />
+
+	<file src="files/blackwhite.fx" />
+	<file src="files/police_props.txd" />
+	<file src="files/temp_stinger.txd" />
+
+	<file src="files/mods/wheelclamp.txd" />
+	<file src="files/mods/wheelclamp.dff" />
+
+	<file src="files/images/target.png" />
+
+	<file src="files/images/settings.png" />
+
+	<file src="files/images/ticket.png" />
+	<file src="files/images/groups/pd.png" />
+
+
+	<file src="rbs/images/978.png" />
+	<file src="rbs/images/981.png" />
+	<file src="rbs/images/1228.png" />
+	<file src="rbs/images/1282.png" />
+	<file src="rbs/images/1422.png" />
+	<file src="rbs/images/1424.png" />
+	<file src="rbs/images/1425.png" />
+	<file src="rbs/images/1459.png" />
+	<file src="rbs/images/3091.png" />
+	<file src="rbs/images/3578.png" />
+	<file src="rbs/images/10135.png" />
+	<file src="rbs/images/10136.png" />
+	<file src="rbs/images/10137.png" />
+	<file src="rbs/images/10138.png" />
+	<file src="rbs/images/10139.png" />
+	<file src="rbs/images/2892.png" />
+	<file src="rbs/images/2899.png" />
+
+	<file src="files/images/pointer.png" />
+	<file src="files/images/close.png" />
+	<file src="files/images/horn.png" />
+	<file src="files/images/siren.png" />
+	<file src="files/images/sound.png" />
+	<file src="files/images/soundoff.png" />
+
+	<file src="files/sounds/cammove.mp3" />
+	<file src="files/sounds/siren2.mp3" />
+	<file src="files/sounds/siren2_fire.mp3" />
+	<file src="files/sounds/siren3.mp3" />
+	<file src="files/sounds/siren3_fire.mp3" />
+	<file src="files/sounds/ambulance.mp3" />
+	<file src="files/sounds/sirenhorn.mp3" />
+</meta>

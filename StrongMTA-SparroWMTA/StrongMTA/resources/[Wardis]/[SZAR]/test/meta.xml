@@ -1,0 +1,9 @@
+<meta>
+	<info description="Shader - Ped Morph" version="0.0.5" type="script" />
+	<min_mta_version client="1.3.1-9.04939" server="1.3.1" />
+
+	<script src="c_ped_morph.lua" type="client" />
+
+	<file src="fx/ped_morph.fx" type="client" />
+	<file src="fx/mta-helper.fx" type="client" />
+</meta>

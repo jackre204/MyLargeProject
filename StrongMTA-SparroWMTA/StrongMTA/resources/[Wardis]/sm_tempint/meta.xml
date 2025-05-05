@@ -1,0 +1,8 @@
+<metaConfig>
+
+	<script type = "client" cache = "false" src = "sourceC.lua" />
+	<script src = "sourceS.lua" />
+
+	<min_mta_version client = "1.5.9"/>
+
+</metaConfig>

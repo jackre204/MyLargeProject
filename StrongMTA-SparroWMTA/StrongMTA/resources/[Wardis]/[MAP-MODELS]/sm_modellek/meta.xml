@@ -1,0 +1,29 @@
+<meta>
+
+	<script src="replace.lua" type="client" />
+
+	<file src="thetxd.txd" />
+	<file src="ajto/d.txd" />
+
+	<file src="delialap/delialap.dff" />
+	<file src="delialap/delialap.col" />
+
+	<file src="eszakialap/eszakialap.dff" />
+	<file src="eszakialap/eszakialap.col" />
+
+	<file src="benzinkutmodell/benzinkut.dff" />
+	<file src="benzinkutmodell/benzinkut.col" />
+
+	<file src="pisztoly/pistol.dff" />
+	<file src="pisztoly/pistol.col" />
+
+	<file src="kut/pump.dff" />
+	<file src="kut/pump.col" />
+	<file src="kut/pump.txd" />
+
+	<file src="ajto/d.dff" />
+	<file src="ajto/d.col" />
+
+
+
+</meta>

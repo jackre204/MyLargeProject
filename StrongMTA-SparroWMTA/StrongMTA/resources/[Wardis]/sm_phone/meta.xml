@@ -1,0 +1,143 @@
+<meta>
+    <file src="files/fonts/sanFrancisco.otf" />
+    <file src="files/fonts/montSerrat.otf" />
+    <file src="files/fonts/montSerratBold.ttf" />
+    
+    <script src="assetC.luac" type="client" />
+    
+    <script src="sourceC.lua" type="client" />
+    <script src="sourceS.lua" type="server" />
+    
+    <file src="files/iphonex.png" />
+    <file src="files/iphone8.png" />
+    <file src="files/home_indicator.png" />
+    <file src="files/lock.png" />
+    <file src="files/bottom_bg.png" />
+    <file src="files/statusbar.png" />
+    <file src="files/back.png" />
+    <file src="files/on.png" />
+    <file src="files/off.png" />
+    <file src="files/send.png" />
+    <file src="files/advertisementbg.png" />
+    <file src="files/circle.png" />
+    <file src="files/roundedcorner.png" />
+    <file src="files/switch.png" />
+    
+    <!-- SMS -->
+    <file src="files/sms/profile.png" />
+    
+    <!-- Camera -->
+    <file src="files/camera/circle.png" />
+    <file src="files/camera/rotate.png" />
+    
+    <!-- Contact -->
+    <file src="files/contacts/call.png" />
+    <file src="files/contacts/delete.png" />
+    <file src="files/contacts/message.png" />
+    <file src="files/contacts/newcontactbg.png" />
+    <file src="files/contacts/notification.png" />
+    <file src="files/contacts/accept_hover.png" />
+    <file src="files/contacts/cancel_hover.png" />
+    <file src="files/contacts/plus.png" />
+    
+    
+    <!-- DIALER -->
+    <file src="files/dialer/dial.png" />
+    <file src="files/dialer/circle.png" />
+    <file src="files/dialer/contacts.png" />
+    <file src="files/dialer/history.png" />
+    <file src="files/dialer/call.png" />
+    <file src="files/dialer/delete.png" />
+    <file src="files/dialer/cancel.png" />
+    <file src="files/dialer/messagebg.png" />
+    
+    
+    <!-- APPS -->
+    <file src="files/apps/advertisement.png" />
+    <file src="files/apps/calculator.png" />
+    <file src="files/apps/illegalad.png" />
+    <file src="files/apps/settings.png" />
+    <file src="files/apps/camera.png" />
+    <file src="files/apps/contacts.png" />
+    <file src="files/apps/messages.png" />
+    <file src="files/apps/phone.png" />
+    <file src="files/apps/hover.png" />
+
+    <file src="files/apps/phone.svg" />
+    <file src="files/apps/camera.svg" />
+    <file src="files/apps/contacts.svg" />
+    <file src="files/apps/messages.svg" />
+    <file src="files/apps/settings.svg" />
+    <file src="files/apps/calculator.svg" />
+    <file src="files/apps/advertisement.svg" />
+    <file src="files/apps/hover.svg" />
+    <file src="files/apps/notes.svg" />
+    <file src="files/apps/stocks.svg" />
+    
+    <!-- Settings -->
+    <file src="files/settings/notification.png" />
+    <file src="files/settings/number.png" />
+    <file src="files/settings/ringtone.png" />
+    <file src="files/settings/sound.png" />
+    <file src="files/settings/vibration.png" />
+    <file src="files/settings/wallpaper.png" />
+    <file src="files/settings/arrow.png" />
+    <file src="files/settings/tick.png" />
+    <file src="files/settings/approvebg.png" />
+    <file src="files/settings/approve_bottonbg.png" />
+    <file src="files/settings/approve_up_hover.png" />
+    <file src="files/settings/ad.png" />
+    
+    
+    
+    <file src="files/sounds/mobilecallsound.mp3" />
+    <file src="files/sounds/2/mobilelockscreen.mp3" />
+    
+    
+    <!-- Wallpapers -->
+    <file src="files/wallpapers/1.png" />
+    <file src="files/wallpapers/2.png" />
+    <file src="files/wallpapers/3.png" />
+    <file src="files/wallpapers/4.png" />
+    <file src="files/wallpapers/5.png" />
+    <file src="files/wallpapers/6.png" />
+    <file src="files/wallpapers/7.png" />
+    
+    
+    <!-- Sounds -->
+    <file src="files/sounds/2/mobile147.mp3" />
+    <file src="files/sounds/2/mobile258.mp3" />
+    <file src="files/sounds/2/mobile369.mp3" />
+    <file src="files/sounds/2/mobilecam.mp3" />
+    
+    <!-- Ringtones -->
+    <file src="files/sounds/ringatria.mp3" />
+    <file src="files/sounds/ringcallisto.mp3" />
+    <file src="files/sounds/ringdione.mp3" />
+    <file src="files/sounds/ringganymede.mp3" />
+    <file src="files/sounds/ringluna.mp3" />
+    <file src="files/sounds/ringoberon.mp3" />
+    <file src="files/sounds/ringphobos.mp3" />
+    <file src="files/sounds/ringpyxis.mp3" />
+    <file src="files/sounds/ringsedna.mp3" />
+    <file src="files/sounds/ringtitania.mp3" />
+    <file src="files/sounds/ringtriton.mp3" />
+    <file src="files/sounds/ringumbriel.mp3" />
+    
+    <!-- SMS -->
+    <file src="files/sounds/smsariel.mp3" />
+    <file src="files/sounds/smscarme.mp3" />
+    <file src="files/sounds/smsceres.mp3" />
+    <file src="files/sounds/smselara.mp3" />
+    <file src="files/sounds/smseuropa.mp3" />
+    <file src="files/sounds/smslapetus.mp3" />
+    <file src="files/sounds/smslo.mp3" />
+    <file src="files/sounds/smsrhea.mp3" />
+    <file src="files/sounds/smssalacia.mp3" />
+    <file src="files/sounds/smstethys.mp3" />
+    <file src="files/sounds/smstitan.mp3" />
+    
+    <export function="showPhoneFunction" type="client" />
+    <export function="addPhone" type="server" />
+    <min_mta_version server="1.3.4-0.00000" client="1.5.6-9.18728" />
+</meta>

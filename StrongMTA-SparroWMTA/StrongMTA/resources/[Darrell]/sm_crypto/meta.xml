@@ -1,0 +1,28 @@
+<meta>
+    <download_priority_group>-35</download_priority_group>
+    <script src="sourceC.lua" type="client" cache="false"/>
+    <script src="sourceG.lua" type="shared" cache="shared"/>
+    <script src = "sourceS.lua" type = "server"/>
+    <file src="models/rack.dff"/>
+    <file src="models/rack.col"/>
+    <file src="models/server.dff"/>
+    <file src="models/server.col"/>
+    <file src="models/texture.txd"/>
+    <file src="models/office.col"/>
+    <file src="models/office.txd"/>
+    <file src="models/office.dff"/>
+
+    <file src="files/money.png"/>
+    <file src="files/power.png"/>
+    <file src="files/servers.png"/>
+    <file src="files/Raleway.ttf"/>
+
+    <script src="shop/sourceC.lua" type="client" cache="false"/>
+    <script src="shop/sourceG.lua" type="shared" cache="shared"/>
+    <script src="shop/sourceS.lua" type="server"/>
+    
+
+
+    <min_mta_version client = "1.5.8" server = "1.5.8" />
+
+</meta>

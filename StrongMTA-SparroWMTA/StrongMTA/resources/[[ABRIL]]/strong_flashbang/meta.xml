@@ -1,0 +1,9 @@
+<meta>
+	
+	<script src="sourceC.lua" type="client" cache="false"/>
+
+	<file src="files/damage.fx" />
+	<file src="files/heartbeat.ogg" />
+	<file src="files/tinnitus.ogg" />
+
+</meta>

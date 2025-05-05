@@ -1,0 +1,10 @@
+<meta>
+	
+	<script src="sourceC.lua" type="client" cache="false"/>
+	<script src="sourceS.lua" type="server" />
+
+	<file src="bolt.png" />
+	<file src="sound.mp3" />
+	<file src="sound2.mp3" />
+
+</meta>

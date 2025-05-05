@@ -1,0 +1,22 @@
+<meta>
+	<download_priority_group>-10</download_priority_group>
+
+	<script src="sourceS.lua" type="server" />
+	<script src="sourceG.lua" type="shared" cache="false" />
+	<script src="sourceC.lua" type="client" cache="false" />
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+	<file src="files/tank_depot.col" />
+	<file src="files/tank_depot.txd" />
+	<file src="files/tank_depot.dff" />
+	<file src="files/tank_fuelstation.col" />
+	<file src="files/tank_fuelstation.txd" />
+	<file src="files/tank_fuelstation.dff" />
+
+	<file src="files/pipedown.png" />
+	<file src="files/pipeup.png" />
+	<file src="files/pipedisc.png" />
+
+	<file src="files/Roboto.ttf" />
+</meta>

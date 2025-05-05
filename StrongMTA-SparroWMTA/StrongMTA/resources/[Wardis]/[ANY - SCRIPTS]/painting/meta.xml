@@ -1,0 +1,6 @@
+<meta>
+	<min_mta_version client="1.5.9" />
+	<script type="client" cache="false" src="client.lua" />
+	<file src="shader.hlsl" />
+	<file src="mta-helper.fx" />
+</meta>

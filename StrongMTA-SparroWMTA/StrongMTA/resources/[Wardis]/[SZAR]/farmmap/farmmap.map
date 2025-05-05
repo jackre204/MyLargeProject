@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (CE_dblbarn01) (1)" radius="27.760225" interior="0" model="3375" lodModel="3376" posX="-96.08594" posY="3.19531" posZ="6.69531" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxreffencesld) (1)" radius="8.2899265" interior="0" model="3276" lodModel="0" posX="-81.89844" posY="56.85156" posZ="2.88281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxreffencesld) (2)" radius="8.2899265" interior="0" model="3276" lodModel="0" posX="-71.83594" posY="58.875" posZ="2.88281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (SW_haybreak02) (1)" radius="5.2015648" interior="0" model="3374" lodModel="0" posX="-92.86719" posY="58.34375" posZ="3.57031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (SW_haybreak02) (2)" radius="5.2015648" interior="0" model="3374" lodModel="0" posX="-91.94531" posY="47.8125" posZ="3.57031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxreffencesld) (3)" radius="8.2899265" interior="0" model="3276" lodModel="0" posX="-90.53125" posY="42.14844" posZ="2.88281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxreffencesld) (4)" radius="8.2899265" interior="0" model="3276" lodModel="0" posX="-94.52344" posY="31.61719" posZ="2.88281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (CE_dblbarn01) (2)" radius="27.760225" interior="0" model="3375" lodModel="3376" posX="-15.52344" posY="68.45313" posZ="6.66406" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sw_haypile05) (1)" radius="11.380013" interior="0" model="12918" lodModel="0" posX="-72.03906" posY="18.44531" posZ="1.95313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sw_corrug01) (1)" radius="10.595881" interior="0" model="12914" lodModel="0" posX="-75.17969" posY="12.17188" posZ="3.71875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxreffencesld) (5)" radius="8.2899265" interior="0" model="3276" lodModel="0" posX="-67.67187" posY="2.04688" posZ="2.89063" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (SW_haybreak02) (3)" radius="5.2015648" interior="0" model="3374" lodModel="0" posX="-50.01562" posY="3.17969" posZ="3.47656" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

@@ -1,0 +1,96 @@
+﻿<meta>
+	<script src = "sourceG.lua" type="shared" cache = "false" />
+	<script src = "sourceC.lua" type="client" cache = "false" />
+	<script src = "sourceS.lua"/>
+
+	<script src = "trailer/sourceC.lua" type = "client" cache = "false" />
+	<script src = "trailer/sourceG.lua" type = "shared" cache = "false" />
+	<script src = "trailer/sourceS.lua" />
+
+	<script src = "shop/sourceG.lua" type = "shared" cache = "false" />
+	<script src = "shop/sourceC.lua" type = "client" cache = "false" />
+	<script src = "shop/sourceS.lua" type = "server"/>
+	
+
+	<file src = "files/Raleway.ttf" />
+
+	<file src = "files/mods/farm.txd" />
+	<file src = "files/mods/farm.col" />
+	<file src = "files/mods/farm.dff" />
+
+	<file src = "files/mods/trailer.txd" />
+	<file src = "files/mods/trailer.dff" />
+
+	<file src = "files/hitch.png" />
+	<file src = "files/unhitch.png" />
+	<file src = "files/texturechanger.fx" />
+
+	<file src = "files/images/tick.png" />
+	<file src = "files/images/minus.png" />
+	<file src = "files/images/board.png" />
+	<min_mta_version client="1.5.0" server="1.5.0" />
+
+	<file src="files/models/inti_kicsi.dff" />
+	<file src="files/models/inti_kicsi.txd" />
+	<file src="files/models/inti_kicsi.col" />
+
+	<file src="files/models/feeding/etetokicsi.dff" />
+	<file src="files/models/feeding/etetokicsi.col" />
+
+	<file src="files/models/feeding/etetonagy.dff" />
+	<file src="files/models/feeding/etetonagy.col" />
+
+	<file src="files/models/feeding/itato.dff" />
+	<file src="files/models/feeding/itato.col" />
+
+	<file src="files/models/feeding/tap.dff" />
+	<file src="files/models/feeding/tap.col" />
+
+	<file src="files/models/feeding/villa.dff" />
+	<file src="files/models/feeding/villa.col" />
+
+	<file src="files/models/feeding/vodor.dff" />
+	<file src="files/models/feeding/vodor.col" />
+
+	<file src="files/models/feeding/tex.txd" />
+
+	<file src="skin.txd" />
+	<file src="skin.dff" />
+
+	<file src="files/models/watercan.txd" />
+	<file src="files/models/watercan.dff" />
+	<file src="files/models/watercan.col" />
+	<file src="files/models/hoe.dff" />
+	<file src="files/models/carrot.txd" />
+	<file src="files/models/carrot.dff" />
+	<file src="files/models/parsley.txd" />
+	<file src="files/models/parsley.dff" />
+	<file src="files/models/lettuce.txd" />
+	<file src="files/models/lettuce.dff" />
+	<file src="files/models/onion.txd" />
+	<file src="files/models/onion.dff" />
+	<file src="files/models/radish.txd" />
+	<file src="files/models/radish.dff" />
+	<file src="files/models/shovel.col" />
+	<file src="files/models/shovel.dff" />
+
+	<file src="files/models/hoe.col" />
+	<file src="files/models/board.dff" />
+	<file src="files/models/exterior_1.dff" />
+	<file src="files/models/exterior_1.col" />
+
+	<file src="files/images/land.png" />
+	<file src="files/images/land_hole_wet.png" />
+	<file src="files/images/wet.png" />
+	<file src="files/images/selection.png" />
+	<file src="files/images/road.png" />
+	<file src="files/images/hay.png" />
+	<file src="files/images/manure.png" />
+	<file src="files/images/land_cultivated.png" />
+	<file src="files/images/land_cultivated_wet.png" />
+	<file src="files/images/land_planted.png" />
+	<file src="files/images/land_planted_wet.png" />
+	<file src="files/images/water.png" />
+	<file src="files/images/triangle.png" />
+
+</meta>

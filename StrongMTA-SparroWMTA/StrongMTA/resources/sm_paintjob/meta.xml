@@ -1,0 +1,29 @@
+<meta>
+	<download_priority_group>-10</download_priority_group>
+
+	<script type="client" src="sourceC.lua" cache="false"/>
+	
+	<export type="client" function="applyTexture" />
+	<export type="client" function="isTextureIdValid" />
+	<export type="client" function="applyPaintJob" />
+	<export type="client" function="getPaintJobCount" />
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+	
+	<file src="texturechanger.fx" />
+
+	<file src="textures/sprinter/1.dds" />
+	<file src="textures/sprinter/2.dds" />
+	<file src="textures/sprinter/3.dds" />
+	<file src="textures/sprinter/4.dds" />
+	<file src="textures/sprinter/5.dds" />
+	<file src="textures/sprinter/6.dds" />
+	<file src="textures/sprinter/7.dds" />
+	<file src="textures/sprinter/8.dds" />
+	<file src="textures/sprinter/9.dds" />
+
+	<file src="textures/demon/almasi.png" />
+
+	<file src="textures/amggt/forma3.png" />
+	
+</meta>

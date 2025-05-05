@@ -1,0 +1,214 @@
+<meta>
+
+    <script src="sourceC.lua" type="client" cache="false" />
+    <script src="sourceG.lua" type="shared" cache="false" />
+    <script src="sourceS.lua" type="server"  />
+
+    <script src="files/maps/sourceC.lua" type="client" cache="false" />
+    <script src="files/maps/sourceS.lua" type="server"  />
+
+    <map src="files/maps/transport.map" />
+     <map src="files/maps/delimapp.map" />
+    
+    <file src="files/bank/bank.txd" />
+    <file src="files/bank/bank.strong" />
+    <file src="files/bank/bank.col" />
+
+    <file src="files/bank/gold.strong" />
+    <file src="files/bank/gold.col" />
+
+    <file src="files/bank/lift.strong" />
+    <file src="files/bank/lift.col" />
+
+    <file src="files/bank/liftdoor.strong" />
+    <file src="files/bank/liftdoor.col" />
+
+    <file src="files/bank/perc.strong" />
+    <file src="files/bank/perc.col" />
+
+    <file src="files/bank/ora.strong" />
+    <file src="files/bank/ora.col" />
+
+    <file src="files/bank/safedoor.strong" />
+    <file src="files/bank/safedoor.col" />
+    
+    <file src="files/lvroads/s_bit_14.strong" />
+    <file src="files/lvroads/s_bit_14.col" />
+
+    <file src="files/lvroads/s_bit_15.strong" />
+    <file src="files/lvroads/s_bit_15.col" />
+
+    <file src="files/lvroads/s_bit_17.strong" />
+    <file src="files/lvroads/s_bit_17.col" />
+
+    <file src="files/lvroads/s_bit_18.strong" />
+    <file src="files/lvroads/s_bit_18.col" />
+    
+    <file src="files/lvroads/se_bit_17.txd" />
+    <file src="files/lvroads/se_bit_17.strong" />
+    <file src="files/lvroads/se_bit_17.col" />
+    
+    <file src="files/houses/CEhillhouse01.txd" />
+    <file src="files/houses/CEhillhouse01.strong" />
+    <file src="files/houses/CEhillhouse01.col" />
+    
+    <file src="files/hospital/hosp.txd" />
+    <file src="files/hospital/hosp.strong" />
+    <file src="files/hospital/hosp.col" />
+    
+    <file src="files/lsfd/lsfd.txd" />
+    <file src="files/lsfd/lsfd.strong" />
+    <file src="files/lsfd/lsfd.col" />
+    
+    <file src="files/lsfd/lsfd2.strong" />
+
+    <file src="files/lsfd/lsfd_door.strong" />
+    <file src="files/lsfd/lsfd_door.col" />
+    
+    <file src="files/roadfix/6118.strong" />
+    <file src="files/roadfix/6118.col" />
+    
+    <file src="files/roadfix/6116.strong" />
+    <file src="files/roadfix/6116.col" />
+    
+    <file src="files/roadfix/6309.strong" />
+    <file src="files/roadfix/6309.col" />
+    
+    <file src="files/roadfix/6310.strong" />
+    <file src="files/roadfix/6310.col" />
+    
+    <file src="files/roadfix/6127.strong" />
+    <file src="files/roadfix/6127.col" />
+    
+    <file src="files/roadfix/6122.strong" />
+    <file src="files/roadfix/6122.col" />
+    
+    <file src="files/roadfix/13752.strong" />
+    <file src="files/roadfix/13752.col" />
+    
+    <file src="files/roadfix/5124.strong" />
+    <file src="files/roadfix/5124.col" />
+    
+    <file src="files/roadfix/4846.strong" />
+    <file src="files/roadfix/4846.col" />
+    
+    <file src="files/roadfix/4831.strong" />
+    <file src="files/roadfix/4831.col" />
+    
+    <file src="files/roadfix/5036.strong" />
+    <file src="files/roadfix/5036.col" />
+    
+    <file src="files/roadfix/6508.strong" />
+
+    <file src="files/roadfix/4108.strong" />
+    <file src="files/roadfix/4108.col" />
+    
+    <file src="files/roadfix/5021.col" />
+    
+    <file src="files/roadfix/9529.col" />
+
+    <file src="files/cityhall/1.txd" />
+    <file src="files/cityhall/1.col" />
+    <file src="files/cityhall/1.strong" />
+
+    <file src="files/plaza/shops2_law.txd" />
+    <file src="files/plaza/plaza.col" />
+    <file src="files/plaza/plaza.strong" />
+    <file src="files/plaza/plazasecondfloor.col" />
+    <file src="files/plaza/plazasecondfloor.strong" />
+
+    <map src="files/maps/factoryjob.map" />
+    <map src="files/maps/company.map" />
+
+    <map src="files/roadfix/fixroad-map.map" />
+    
+    <script src="files/roadfix/mapEditorScriptingExtension_s.lua" type="server"></script>
+    
+    <script src="files/roadfix/mapEditorScriptingExtension_c.lua" type="client" validate="false" cache = "false"></script>
+
+    <file src="files/unprotectModels/barrier.col" />
+	<file src="files/unprotectModels/barrier.dff" />
+	<file src="files/unprotectModels/axe.dff" />
+	<file src="files/unprotectModels/axe.txd" />
+	<file src="files/unprotectModels/boja.col" />
+	<file src="files/unprotectModels/boja.dff" />
+	<file src="files/unprotectModels/boja.txd" />
+	<file src="files/unprotectModels/cellphone.dff" />
+	<file src="files/unprotectModels/cellphone.txd" />
+	<file src="files/unprotectModels/cj_money_bags.txd" />
+	<file src="files/unprotectModels/emelo_block.col" />
+	<file src="files/unprotectModels/emelo_block.dff" />
+	<file src="files/unprotectModels/emelo_block.txd" />
+	<file src="files/unprotectModels/emelo_kar.col" />
+	<file src="files/unprotectModels/emelo_kar.dff" />
+	<file src="files/unprotectModels/emelo_kar.txd" />
+	<file src="files/unprotectModels/flex.dff" />
+	<file src="files/unprotectModels/flex.txd" />
+	<file src="files/unprotectModels/hajobelso.col" />
+	<file src="files/unprotectModels/hajobelso.dff" />
+	<file src="files/unprotectModels/hajobelso.txd" />
+	<file src="files/unprotectModels/int3int_carupg_int.col" />
+	<file src="files/unprotectModels/int3int_carupg_int.dff" />
+	<file src="files/unprotectModels/int3int_kbsgarage.col" />
+	<file src="files/unprotectModels/int3int_kbsgarage.dff" />
+	<file src="files/unprotectModels/int3int_kbsgarage.txd" />
+	<file src="files/unprotectModels/int_kbsgarage05b.col" />
+	<file src="files/unprotectModels/int_kbsgarage05b.dff" />
+	<file src="files/unprotectModels/int_kbsgarage2.col" />
+	<file src="files/unprotectModels/int_kbsgarage2.dff" />
+	<file src="files/unprotectModels/int_kbsgarage3.col" />
+	<file src="files/unprotectModels/int_kbsgarage3.dff" />
+	<file src="files/unprotectModels/int_kbsgarage3b.col" />
+	<file src="files/unprotectModels/int_kbsgarage3b.dff" />
+	<file src="files/unprotectModels/kanna.dff" />
+	<file src="files/unprotectModels/kanna.txd" />
+	<file src="files/unprotectModels/kb_tr_main.col" />
+	<file src="files/unprotectModels/letter.dff" />
+	<file src="files/unprotectModels/letter.txd" />
+	<file src="files/unprotectModels/parcel.dff" />
+	<file src="files/unprotectModels/parcel.txd" />
+	<file src="files/unprotectModels/pisztoly.dff" />
+	<file src="files/unprotectModels/pisztoly.txd" />
+	<file src="files/unprotectModels/pump.col" />
+	<file src="files/unprotectModels/pump.dff" />
+	<file src="files/unprotectModels/pump.txd" />
+	<file src="files/unprotectModels/rbs1.col" />
+	<file src="files/unprotectModels/rbs1.dff" />
+	<file src="files/unprotectModels/rbs1.txd" />
+	<file src="files/unprotectModels/rbs2.col" />
+	<file src="files/unprotectModels/rbs2.dff" />
+	<file src="files/unprotectModels/rbs2.txd" />
+	<file src="files/unprotectModels/rbs3.col" />
+	<file src="files/unprotectModels/rbs3.dff" />
+	<file src="files/unprotectModels/rbs3.txd" />
+	<file src="files/unprotectModels/rbs4.col" />
+	<file src="files/unprotectModels/rbs4.dff" />
+	<file src="files/unprotectModels/rbs4.txd" />
+	<file src="files/unprotectModels/slotm.col" />
+	<file src="files/unprotectModels/slotm.dff" />
+	<file src="files/unprotectModels/slotm.txd" />
+	<file src="files/unprotectModels/slotm2.col" />
+	<file src="files/unprotectModels/slotm2.dff" />
+	<file src="files/unprotectModels/slotm2.txd" />
+	<file src="files/unprotectModels/slotm3.col" />
+	<file src="files/unprotectModels/slotm3.dff" />
+	<file src="files/unprotectModels/slotm3.txd" />
+	<file src="files/unprotectModels/slotm4.col" />
+	<file src="files/unprotectModels/slotm4.dff" />
+	<file src="files/unprotectModels/slotm4.txd" />
+	<file src="files/unprotectModels/speed_bump01.col" />
+	<file src="files/unprotectModels/speed_bump01.dff" />
+	<file src="files/unprotectModels/speed_bump01.txd" />
+	<file src="files/unprotectModels/traffi.col" />
+	<file src="files/unprotectModels/traffi.dff" />
+	<file src="files/unprotectModels/traffi.txd" />
+	<file src="files/unprotectModels/traffi_allo.col" />
+	<file src="files/unprotectModels/traffi_allo.dff" />
+	<file src="files/unprotectModels/traffi_allo.txd" />
+	<file src="files/unprotectModels/uszo.dff" />
+	<file src="files/unprotectModels/uszo.txd" />
+	<file src="files/unprotectModels/horgaszbot.dff" />
+	<file src="files/unprotectModels/horgaszbot.txd" />
+	<file src="files/unprotectModels/horgaszbot.col" />
+    
+</meta>
